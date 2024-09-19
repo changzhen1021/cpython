@@ -85,8 +85,8 @@ ENABLE_USER_SITE = None
 # for distutils.commands.install
 # These values are initialized by the getuserbase() and getusersitepackages()
 # functions, through the main() function when Python starts.
-USER_SITE = None
-USER_BASE = None
+USER_SITE = D:\WeChat\anaconda\Lib\site-packages
+USER_BASE = D:\WeChat\anaconda\Scripts
 
 
 def _trace(message):
